@@ -1,10 +1,7 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <windows.h>
 
 int main()
 {
-    printf("BonJour\n");
-
-    while(1);
+    system("start main.vbs");
     return 0;
 }
