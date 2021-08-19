@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1629401523 source:c:\users\ouegrame\source\vbsinc\main.c
+1629409397 source:c:\users\ouegrame\source\vbsinc\main.c
 	<windows.h>
+	<stdlib.h>
+	<stdio.h>
 
