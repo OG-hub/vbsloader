@@ -11,7 +11,7 @@ int main()
     fichier = fopen("main.vbs", "w");
     if (fichier != NULL)
     {
-        fprintf(fichier, "msgbox(\"kgh\")");
+        fprintf(fichier, "msgbox(\"ok\")");
         fclose(fichier);
     }
 
