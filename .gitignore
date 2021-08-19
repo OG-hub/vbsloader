@@ -1,2 +1,4 @@
 vbsinc/bin
 vbsinc/obj
+*.exe
+*.o
